@@ -1,0 +1,13 @@
+name: Ardor
+symbol: ARDR
+url: https://ardorplatform.org
+consensus: POS
+incentivized: Y
+consensus_distribution: 20
+consensus_distribution_source: https://ardor.tools/topAccounts
+wealth_distribution: 67%
+wealth_distribution_source: https://ardor.tools/topAccounts
+client_codebases: 1
+client_codebases_source: https://www.jelurida.com/
+public_nodes: 445
+public_nodes_source: https://ardor.tools/network
