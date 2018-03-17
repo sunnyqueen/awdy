@@ -1,0 +1,13 @@
+name: Peercoin
+symbol: PPC
+url: https://peercoin.net
+consensus: PoW+PoS
+incentivized: Y
+consensus_distribution: 54
+consensus_distribution_source: https://peercoin.mintr.org/top
+wealth_distribution: 58.05%
+wealth_distribution_source: https://bitinfocharts.com/ppcoin/
+client_codebases: 1
+client_codebases_source: https://chainz.cryptoid.info/ppc/#network-clients-tab
+public_nodes: 53
+public_nodes_source: https://chainz.cryptoid.info/ppc/#!network
