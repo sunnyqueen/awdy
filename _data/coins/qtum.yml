@@ -1,7 +1,7 @@
 name: Qtum
 symbol: QTUM
 url: https://qtum.org
-consensus: POS
+consensus: PoS
 incentivized: Y
 consensus_distribution: ">=500"
 consensus_distribution_source: https://explorer.qtum.org
@@ -11,4 +11,4 @@ client_codebases: 1
 client_codebases_source: https://github.com/qtumproject/qtum
 public_nodes: 6029
 public_nodes_source: https://qtum.org/en/nodemap
-notes: Qtum uses a multisig wallet so it is difficult to determine actual consensus/wealth distribution. However the consensus guarantees that every UTXO that has won a block will be locked for 500 blocks.
+notes: Qtum uses a multisig wallet natively so it is difficult to determine actual consensus/wealth distribution. However the consensus guarantees that every UTXO that has won a block will be locked for 500 blocks.
