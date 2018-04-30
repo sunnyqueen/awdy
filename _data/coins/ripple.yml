@@ -4,11 +4,11 @@ url: https://ripple.com/
 consensus: RPCA (voting system)
 incentivized: N
 consensus_distribution: 1
-consensus_distribution_source: https://blog.bitmex.com/the-ripple-story/
+consensus_distribution_source: https://ripple.com/dev-blog/decentralization-strategy-update/
 wealth_distribution: 97%
 wealth_distribution_source: https://ledger.exposed/rich-stats/100
-client_codebases:
-client_codebases_source:
-public_nodes:
-public_nodes_source:
-notes: By default, rippled only points to 5 Ripple-owned validator nodes. User would have to edit a config file to change this - hence only 1 entity owning consensus by default
+client_codebases: 1
+client_codebases_source: https://xrpcharts.ripple.com/#/topology
+public_nodes: 596
+public_nodes_source: https://xrpcharts.ripple.com/#/topology
+notes: By default, rippled only points to a list of only Ripple-operated validator nodes (currently 16) at https://vl.ripple.com (https://github.com/ripple/rippled/blob/develop/cfg/validators-example.txt). Node operators would have to edit a config file to change this or choose their own list - hence only 1 entity owning consensus by default.
