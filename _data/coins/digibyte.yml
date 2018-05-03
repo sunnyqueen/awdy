@@ -1,0 +1,14 @@
+name: DigiByte
+symbol: DGB
+url: https://digibyte.io
+consensus: PoW
+incentivized: Y
+consensus_distribution: 6
+consensus_distribution_source: https://chainz.cryptoid.info/dgb/#!extraction
+wealth_distribution: 56%
+wealth_distribution_source: https://chainz.cryptoid.info/dgb/#!rich
+client_codebases: 1
+client_codebases_source: https://chainz.cryptoid.info/dgb/#!network
+public_nodes: 
+public_nodes_source: 
+notes: Because DigiByte is MultiAlgo, to perform a 51% attack, it would require 93% of the primary attack algorithm and 51% of all other remaining, meaning the Consensus Distribution is skewed
