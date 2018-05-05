@@ -7,7 +7,7 @@ consensus_distribution: 3
 consensus_distribution_source: https://www.litecoinpool.org/pools
 wealth_distribution: 45%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-litecoin-addresses.html
-client_codebases:
-client_codebases_source:
-public_nodes:
-public_nodes_source:
+client_codebases: 3
+client_codebases_source: https://chainz.cryptoid.info/ltc/#!network
+public_nodes: 261
+public_nodes_source: https://chainz.cryptoid.info/ltc/#!network
