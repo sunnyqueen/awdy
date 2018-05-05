@@ -5,8 +5,8 @@ consensus: RPCA (voting system)
 incentivized: N
 consensus_distribution: 1
 consensus_distribution_source: https://ripple.com/dev-blog/decentralization-strategy-update/
-wealth_distribution: 80.72%
-wealth_distribution_source: https://ledger.exposed/rich-stats
+wealth_distribution: 98%
+wealth_distribution_source: https://ledger.exposed/rich-stats/100/0
 client_codebases: 1
 client_codebases_source: https://xrpcharts.ripple.com/#/topology
 public_nodes: 596
