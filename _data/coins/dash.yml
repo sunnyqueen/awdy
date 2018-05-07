@@ -11,4 +11,4 @@ client_codebases: 1
 client_codebases_source: https://www.dashninja.pl/masternodes.html
 public_nodes: 4774
 public_nodes_source: https://www.dashninja.pl/masternodes.html
-notes: Dash also utilizes PoS for higher level functions such as PrivateSend etc. Masternodes do not verify the ledger. There are over 4000 masternodes.
+notes: Dash uses Masternodes (collateralised full nodes with no or empty wallet, funds are kept in local offline wallets) to perform higher level functions (PrivateSend, InstantSend and Governance). Masternodes share block rewards with miners via deterministic queue. The `# of public nodes` represents the number of active Masternodes.
