@@ -7,7 +7,7 @@ consensus_distribution: 2
 consensus_distribution_source: https://ethereumclassic.github.io/
 wealth_distribution:
 wealth_distribution_source:
-client_codebases:
-client_codebases_source:
+client_codebases: 2
+client_codebases_source: http://gastracker.io/stats/nodes
 public_nodes:
 public_nodes_source:
