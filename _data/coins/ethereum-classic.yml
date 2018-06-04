@@ -4,7 +4,7 @@ url: https://ethereumclassic.github.io/
 consensus: PoW
 incentivized: Y
 consensus_distribution: 2
-consensus_distribution_source: https://ethereumclassic.github.io/
+consensus_distribution_source: http://gastracker.io/stats/miners
 wealth_distribution:
 wealth_distribution_source:
 client_codebases: 2
