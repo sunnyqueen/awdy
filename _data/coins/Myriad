@@ -1,0 +1,14 @@
+name: Myriad
+symbol: XMY
+url: http://myriadcoin.org/
+consensus: PoW
+incentivized: Y
+consensus_distribution: 3
+consensus_distribution_source: https://chainz.cryptoid.info/xmy/#!extraction
+wealth_distribution: 65%
+wealth_distribution_source: https://chainz.cryptoid.info/xmy/#!rich
+client_codebases: 1
+client_codebases_source: https://chainz.cryptoid.info/xmy/#!network
+public_nodes: 118
+public_nodes_source: https://chainz.cryptoid.info/xmy/#!network
+notes: Myriad is a Multi-Algo consensus protocol.
