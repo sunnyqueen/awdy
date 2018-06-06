@@ -1,7 +1,7 @@
 name: Myriad
 symbol: XMY
 url: http://myriadcoin.org/
-consensus: Multi-PoW
+consensus: PoW
 incentivized: Y
 consensus_distribution: 3
 consensus_distribution_source: https://chainz.cryptoid.info/xmy/#!extraction
