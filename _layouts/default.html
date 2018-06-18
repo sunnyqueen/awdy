@@ -40,9 +40,18 @@
 
 <body>
 
-<nav class="navbar navbar-light bg-light">
-  <span class="navbar-brand mb-0 h1 mr-auto">are we decentralized yet?</span>
-  <span class="navbar-text"><a href="https://github.com/ummjackson/awdy"><i class="fab fa-fw fa-github"></i> Contribute on Github</a></span>
+<nav class="navbar navbar-dark" style="background-color:#F57C00;">
+  <a class="navbar-brand" href="/">are we decentralized yet?</a>
+  <div class="navbar-expand" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/api.json"><i class="fas fa-fw fa-code"></i> JSON API</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/ummjackson/awdy"><i class="fab fa-fw fa-github"></i> Contribute on Github</a>
+      </li>
+    </ul>
+  </div>
 </nav>
 
 {{ content }}
