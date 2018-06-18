@@ -5,9 +5,9 @@ consensus: POI
 incentivized: Y
 consensus_distribution:
 consensus_distribution_source:
-wealth_distribution: 55%
+wealth_distribution: 53%
 wealth_distribution_source: https://nemnodes.org/richlist/
-client_codebases:
-client_codebases_source:
-public_nodes:
-public_nodes_source:
+client_codebases: 1 
+client_codebases_source: https://nodeexplorer.com/
+public_nodes: 530
+public_nodes_source: https://nodeexplorer.com/

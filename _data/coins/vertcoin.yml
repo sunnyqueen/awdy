@@ -5,7 +5,7 @@ consensus: PoW
 incentivized: Y
 consensus_distribution: 2
 consensus_distribution_source: https://vtconline.org/sf.html
-wealth_distribution: 51.87%
+wealth_distribution: 52%
 wealth_distribution_source: https://bitinfocharts.com/vertcoin/
 client_codebases: 1
 client_codebases_source: https://github.com/vertcoin-project/vertcoin-core

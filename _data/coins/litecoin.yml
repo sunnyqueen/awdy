@@ -5,7 +5,7 @@ consensus: PoW
 incentivized: Y
 consensus_distribution: 3
 consensus_distribution_source: https://www.litecoinpool.org/pools
-wealth_distribution: 45%
+wealth_distribution: 44%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-litecoin-addresses.html
 client_codebases: 3
 client_codebases_source: https://chainz.cryptoid.info/ltc/#!network

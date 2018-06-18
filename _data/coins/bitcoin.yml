@@ -9,5 +9,5 @@ wealth_distribution: 19%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html
 client_codebases: 1
 client_codebases_source: https://coin.dance/nodes#allNodes
-public_nodes: 9933
+public_nodes: 9624
 public_nodes_source: https://coin.dance/nodes

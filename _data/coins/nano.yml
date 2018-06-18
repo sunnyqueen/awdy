@@ -7,8 +7,8 @@ consensus_distribution: 2
 consensus_distribution_source: https://nano.org/en/explore/representatives
 wealth_distribution: 63%
 wealth_distribution_source: https://raiblocks.net/page/frontiers.php
-client_codebases:
-client_codebases_source:
+client_codebases: 1 
+client_codebases_source: https://nano.org/en/explore/peers
 public_nodes: 648
 public_nodes_source: https://nano.org/en/explore/peers
 notes: The "Official Representatives" are run by the developers, hence can be collapsed to represent a single entity

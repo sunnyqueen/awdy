@@ -5,10 +5,10 @@ consensus: PoS
 incentivized: N
 consensus_distribution: 1
 consensus_distribution_source: https://cardanodocs.com/timeline/bootstrap/
-wealth_distribution: 33%
+wealth_distribution: 40%
 wealth_distribution_source: https://adatracker.com/richest
-client_codebases:
-client_codebases_source:
-public_nodes:
-public_nodes_source:
-notes: During the "Boostrap" era, Cardano runs all the validating nodes themselves
+client_codebases: 1 
+client_codebases_source: https://cardanodocs.com/timeline/bootstrap/
+public_nodes: 1 
+public_nodes_source: https://cardanodocs.com/timeline/bootstrap/
+notes: During the "Boostrap" era, Cardano runs all the validating nodes themselves. Hence 1 for everything.

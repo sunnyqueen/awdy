@@ -3,12 +3,12 @@ symbol: XMR
 url: https://getmonero.org/
 consensus: PoW
 incentivized: Y
-consensus_distribution:
-consensus_distribution_source:
+consensus_distribution: 3
+consensus_distribution_source: https://www.minexmr.com/pools.html
 wealth_distribution:
 wealth_distribution_source:
 client_codebases: 1
 client_codebases_source: https://getmonero.org/downloads/
-public_nodes: 2044
+public_nodes: 1691
 public_nodes_source: https://monerohash.com/nodes-distribution.html
-notes: Only 1 full node implementation could be found for public download - hence assuming 1 for client codebases
+notes: Wealth distribution can not be reliably calculated due to privacy features.
