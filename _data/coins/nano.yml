@@ -1,14 +1,14 @@
 name: Nano
 symbol: NANO
-url: https://nano.org/en
+url: https://nano.org
 consensus: DPoS
 incentivized: N
-consensus_distribution: 2
-consensus_distribution_source: https://nano.org/en/explore/representatives
-wealth_distribution: 63%
-wealth_distribution_source: https://raiblocks.net/page/frontiers.php
+consensus_distribution: 3
+consensus_distribution_source: https://nanonode.ninja/active
+wealth_distribution: 62%
+wealth_distribution_source: https://nano.meltingice.net/explorer/top_accounts
 client_codebases: 1 
-client_codebases_source: https://nano.org/en/explore/peers
-public_nodes: 648
-public_nodes_source: https://nano.org/en/explore/peers
+client_codebases_source: https://nanonode.ninja/statistics/versions
+public_nodes: 548
+public_nodes_source: https://nano.meltingice.net/status
 notes: The "Official Representatives" are run by the developers, hence can be collapsed to represent a single entity
