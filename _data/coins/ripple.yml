@@ -3,7 +3,7 @@ symbol: XRP
 url: https://ripple.com/
 consensus: RPCA (voting system)
 incentivized: N
-consensus_distribution: 1
+consensus_distribution: 0
 consensus_distribution_source: https://ripple.com/dev-blog/decentralization-strategy-update/
 wealth_distribution: 81%
 wealth_distribution_source: https://ledger.exposed/rich-stats
