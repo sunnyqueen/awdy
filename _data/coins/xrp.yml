@@ -1,6 +1,6 @@
-name: Ripple
+name: XRP
 symbol: XRP
-url: https://ripple.com/
+url: https://ripple.com/xrp/
 consensus: RPCA (voting system)
 incentivized: N
 consensus_distribution: 2
