@@ -1,0 +1,14 @@
+name: ZenCash
+symbol: ZEN
+url: https://zencash.com/
+consensus: PoW
+incentivized: Y
+consensus_distribution: 3
+consensus_distribution_source: https://explorer.zen-solutions.io/distribution
+wealth_distribution:
+wealth_distribution_source:
+client_codebases: 3
+client_codebases_source: https://github.com/ZencashOfficial
+public_nodes: 15931
+public_nodes_source: https://securenodes.eu.zensystem.io/
+notes: Wealth distribution can not be reliably calculated due to privacy features.
