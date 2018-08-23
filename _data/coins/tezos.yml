@@ -1,7 +1,7 @@
 name: Tezos
 symbol: XTZ
 url: http://Tezos.com
-consensus: DPoS
+consensus: LPoS
 incentivized: Y
 consensus_distribution: 2
 consensus_distribution_source: http://tzscan.io/rolls-distribution
