@@ -3,7 +3,7 @@ symbol: BTC
 url: https://bitcoin.org
 consensus: PoW
 incentivized: Y
-consensus_distribution: 3
+consensus_distribution: 4
 consensus_distribution_source: https://blockchain.info/pools
 wealth_distribution: 19%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html
