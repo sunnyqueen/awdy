@@ -3,7 +3,7 @@ symbol: VTC
 url: https://vertcoin.org
 consensus: PoW
 incentivized: Y
-consensus_distribution: 2
+consensus_distribution: 4
 consensus_distribution_source: https://vtconline.org/sf.html
 wealth_distribution: 52%
 wealth_distribution_source: https://bitinfocharts.com/vertcoin/
