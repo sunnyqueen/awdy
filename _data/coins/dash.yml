@@ -3,9 +3,9 @@ symbol: DASH
 url: https://dash.org
 consensus: PoW
 incentivized: Y
-consensus_distribution: 4
+consensus_distribution: 3
 consensus_distribution_source: https://chainz.cryptoid.info/dash/#!extraction
-wealth_distribution: 15%
+wealth_distribution: 14.65%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-dash-addresses.html
 client_codebases: 1
 client_codebases_source: https://www.dashninja.pl/masternodes.html
