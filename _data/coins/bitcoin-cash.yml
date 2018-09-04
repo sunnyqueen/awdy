@@ -5,7 +5,7 @@ consensus: PoW
 incentivized: Y
 consensus_distribution: 3
 consensus_distribution_source: https://cash.coin.dance/blocks/today
-wealth_distribution: 25%
+wealth_distribution: 24.12%%
 wealth_distribution_source: https://bitinfocharts.com/top-100-richest-bitcoin%20cash-addresses.html
 client_codebases: 2
 client_codebases_source: https://cash.coin.dance/nodes#allNodes
