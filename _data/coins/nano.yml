@@ -6,7 +6,7 @@ incentivized: N
 consensus_distribution: 3
 consensus_distribution_source: https://nanonode.ninja/active
 wealth_distribution: 62%
-wealth_distribution_source: https://nano.meltingice.net/explorer/top_accounts
+wealth_distribution_source: https://nanocrawler.cc/explorer/accounts/1
 client_codebases: 1 
 client_codebases_source: https://nanonode.ninja/statistics/versions
 public_nodes: 548
