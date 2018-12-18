@@ -1,35 +1,37 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+	<title>are we decentralized yet?</title>
+	<style>
+	html, body {
+	    height: 100%;
+	}
 
-<table class="table table-striped coins">
-  <thead class="thead-dark column-titles">
-    <tr>
-      <th scope="col">Name</th>
-      <th scope="col">Symbol</th>
-      <th scope="col">Consensus</th>
-      <th scope="col">Miners/voters Incentivized?</th>
-      <th scope="col"># of entities in control of >50% of voting/mining power</th>
-      <th scope="col">% of money supply held by top 100 accounts</th>
-      <th scope="col"># of client codebases that account for > 90% of nodes</th>
-      <th scope="col"># of public nodes</th>
-      <th scope="col">Notes</th>    
-    </tr>
-  </thead>
-  <tbody>
-  	{% for coin_hash in site.data.coins %}
-	{% assign coin = coin_hash[1] %}
-    <tr id="{{ coin.symbol }}">
-      <th scope="row"><a href="{{ coin.url }}">{{ coin.name }}</a></th>
-      <td>{{ coin.symbol }}</td>
-      <td>{{ coin.consensus }}</td>
-      <td>{{ coin.incentivized }}</td>
-      <td>{% if coin.consensus_distribution %}<a href="{{ coin.consensus_distribution_source }}">{{ coin.consensus_distribution }}</a>{% else %}<i class="fas fa-fw fa-question-circle text-danger"></i>{% endif %}</td>
-      <td>{% if coin.wealth_distribution %}<a href="{{ coin.wealth_distribution_source }}">{{ coin.wealth_distribution }}</a>{% else %}<i class="fas fa-fw fa-question-circle text-danger"></i>{% endif %}</td>
-      <td>{% if coin.client_codebases %}<a href="{{ coin.client_codebases_source }}">{{ coin.client_codebases }}</a>{% else %}<i class="fas fa-fw fa-question-circle text-danger"></i>{% endif %}</td>
-      <td>{% if coin.public_nodes %}<a href="{{ coin.public_nodes_source }}">{{ coin.public_nodes }}</a>{% else %}<i class="fas fa-fw fa-question-circle text-danger"></i>{% endif %}</td>
-      <td>{% if coin.notes %}<a href="#" data-toggle="tooltip" data-placement="top" title="{{ coin.notes | xml_escape }}"><i class="fas fa-fw fa-info-circle"></i></a>{% endif %}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+	html {
+	    display: table;
+	    margin: auto;
+	}
+
+	body {
+	    display: table-cell;
+	    vertical-align: middle;
+		background-color: #000000;
+		text-align: center;
+	}
+
+	h1 {
+		color: #FFFFFF;
+		font-size: 160px;
+		font-family: sans-serif;
+		margin: 0;
+		padding: 0;
+		line-height: 80px;
+	}
+	</style>
+</head>
+<body>
+<img src="http://i62.tinypic.com/2cpye7k.jpg"/>
+<h1>nope</h1>
+<!-- you can find the historical repo @ https://github.com/ummjackson/awdy and are free to use it as you see fit. it was simply becoming a hassle to maintain and keep updated given the spotty availability of the data publicly. i wish you all the best. -->
+</body>
+</html>
